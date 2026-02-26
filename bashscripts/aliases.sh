@@ -8,9 +8,9 @@ if [ -x /usr/bin/dircolors ]; then
 fi
 
 # ls aliases
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
+alias ll='ls -alF --color'
+alias la='ls -A --color'
+alias l='ls -CF --color'
 
 # Navigation aliases
 alias con="cd ~/.config"
@@ -25,8 +25,18 @@ alias c='xclip -sel clip'
 # Alert alias for long running commands
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
 
-#Quick Notes
-alias notes='nvim /home/ani/Desktop/notes.txt'
-
 #edit i3 config
 alias i3config='nvim ~/.config/i3/config'
+
+#cargo run
+alias cr='RUSTFLAGS="-A non_snake_case -A non_camel_case_types" cargo run'
+
+#cargo build
+alias cb='RUSTFLAGS="-A non_snake_case -A non_camel_case_types" cargo build'
+
+# alias for mpd
+alias music='ncmpcpp'
+
+alias java_course='/home/ani/.local/share/tmc/tmc_cli_rust'
+
+alias postgres='sudo -u postgres psql'

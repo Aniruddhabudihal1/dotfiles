@@ -13,7 +13,7 @@ set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:monospace 12
+font pango:monospace 8
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
@@ -27,7 +27,7 @@ exec --no-startup-id dex --autostart --environment i3
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
-exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+exec --no-startup-id xss-lock --transfer-sleep-lock -- /home/ani/.config/i3/lock.sh
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
@@ -35,8 +35,8 @@ exec --no-startup-id nm-applet
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
-bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +1% && $refresh_i3status
-bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -1% && $refresh_i3status
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +5% && $refresh_i3status
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -5% && $refresh_i3status
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 
@@ -179,9 +179,8 @@ bindsym $mod+r mode "resize"
 
 # auto lock system after 300 seconds
 exec_always --no-startup-id xset dpms 0 0 300
-# exec_always --no-startup-id xss-lock -- i3lock -c 000000 &
 
-exec_always feh --bg-fill /home/ani/Documents/wallpapers-linux/wallpapers/space/1706051435447296.jpg
+exec_always feh --bg-fill /home/ani/Documents/wallpapers/cool/1694630540730595.jpg
 
 # enable brightness keys
 bindsym --release XF86MonBrightnessUp exec brightnessctl set +5%
@@ -189,26 +188,25 @@ bindsym --release XF86MonBrightnessDown exec brightnessctl set 5%-
 
 
 default_border none
-gaps outer 4px
-gaps inner 4px
+gaps outer 6px
+gaps inner 6px
 
 exec_always xrandr --output eDP-1 --mode 1920x1200
 
 bindsym $mod+d exec --no-startup-id rofi -show run
 
-bindsym $mod+m exec ~/.screenlayout/dual.sh && $mod+Shift+r
+bindsym $mod+m exec ~/.screenlayout/dual.sh && $refresh_i3status
 
 bindsym $mod+Shift+m exec ~/.screenlayouts/mono.sh && $mod+Shift+r
 
-bindsym $mod+Ctrl+Right exec --no-startup-id playerctl next
+bindsym $mod+Ctrl+n exec --no-startup-id mpc next
+bindsym $mod+Ctrl+b exec --no-startup-id mpc prev
+bindsym $mod+Ctrl+p exec --no-startup-id mpc toggle
 
-bindsym $mod+Ctrl+Left exec --no-startup-id playerctl previous
 
 exec_always --no-startup-id ~/.config/polybar/hack/launch.sh
 
 bindsym $mod+Shift+z exec launch-zen
-
-bindsym $mod+Shift+g exec xdg-open ~/Desktop/Necessary_git_commands.pdf
 
 bindsym  $mod+Ctrl+Up exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +5% && $refresh_i3status
 bindsym  $mod+Ctrl+Down exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -5% && $refresh_i3status
@@ -219,6 +217,12 @@ bindsym $mod+Shift+p exec --no-startup-id flatpak run org.flameshot.Flameshot gu
 
 bindsym $mod+Shift+o exec flatpak run md.obsidian.Obsidian
 
-exec_always --no-startup-id ~/.config/i3/monitor-setup.sh
+exec_always --no-startup-id ~/.config/i3/monitor-setup.sh && $refresh_i3status
 
 bindsym $mod+Shift+d exec /home/ani/Downloads/Discord/Discord
+
+exec --no-startup-id synclient VertScrollDelta=-111
+
+bindsym $mod+Shift+x exec --no-startup-id /home/ani/.config/i3/lock.sh
+
+bindsym $mod+Shift+a exec --no-startup-id flatpak run io.bassi.Amberol

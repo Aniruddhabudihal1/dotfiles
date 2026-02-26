@@ -5,10 +5,13 @@ return {
     opts = function()
       return {
         options = {
-          theme = "nord",
+          theme = "auto",
           component_separators = { left = "", right = "" },
           section_separators = { left = "", right = "" },
           globalstatus = true,
+        },
+        sections = {
+          lualine_b = { "branch" }, -- removed "diff" (gitsigns)
         },
       }
     end,
