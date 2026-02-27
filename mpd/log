@@ -1,0 +1,1251 @@
+Jul 20 15:22 : exception: Bad song index
+Jul 20 15:42 : client: [2] malformed command "����"
+Feb 12 23:52 : update: added lock_in/John Powell - The Bourne Identity Main Title.flac
+Feb 12 23:52 : update: added /Piero Piccioni - Endless Love.flac
+Feb 12 23:52 : update: added /Ludwig Goransson - Can You Hear The Music.flac
+Feb 12 23:52 : update: added /Piero Piccioni - Easy Lovers.flac
+Feb 12 23:52 : update: added /Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac
+Feb 12 23:52 : update: added /Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac
+Feb 12 23:52 : update: added /MOHIT CHAUHAN - Bheegi Si Bhaagi Si (Trance Mix by Deep & DJ Chantz).flac
+Feb 12 23:52 : update: added smooth/Sting - Fields Of Gold(1).flac
+Feb 12 23:52 : update: added smooth/TOTO - Africa.flac
+Feb 12 23:52 : update: added smooth/Derek & The Dominos - Layla.flac
+Feb 12 23:52 : update: added smooth/TOTO - Rosanna.flac
+Feb 12 23:52 : update: added smooth/Sting - Englishman In New York.flac
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : player: problems opening audio device while playing "Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:53 : player: played "smooth/TOTO - Africa.flac"
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : player: problems opening audio device while playing "Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:54 : player: played "Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 12 23:55 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:55 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:55 : player: problems opening audio device while playing "Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 12 23:55 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:55 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:55 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:55 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:55 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:55 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:55 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:55 : exception: Failed to open "MyOutput" (pulse); failed to connect: Connection refused
+Feb 12 23:56 : player: played "smooth/Derek & The Dominos - Layla.flac"
+Feb 13 00:14 : player: played "MOHIT CHAUHAN - Bheegi Si Bhaagi Si (Trance Mix by Deep & DJ Chantz).flac"
+Feb 13 00:30 : player: played "smooth/TOTO - Africa.flac"
+Feb 13 00:32 : player: played "Ludwig Goransson - Can You Hear The Music.flac"
+Feb 13 00:37 : player: played "Piero Piccioni - Easy Lovers.flac"
+Feb 13 00:37 : player: played "Piero Piccioni - Easy Lovers.flac"
+Feb 13 07:33 : update: added lock_in/Moby - Extreme Ways (From The _Bourne_ Film Series).flac
+Feb 13 07:36 : update: removing lock_in/Moby - Extreme Ways (From The _Bourne_ Film Series).flac
+Feb 13 07:36 : update: added lock_in/Moby - Extreme Ways.flac
+Feb 13 07:40 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 13 09:49 : update: added /The Outfield - Mystery Man.flac
+Feb 13 09:49 : update: added /The Outfield - Talk To Me.flac
+Feb 13 09:49 : update: added /The Outfield - Your Love(1).flac
+Feb 13 09:49 : update: added /The Outfield - Say It Isn't So.flac
+Feb 13 09:52 : update: removing The Outfield - Your Love(1).flac
+Feb 13 09:52 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 09:52 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 09:52 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 09:52 : update: added /05. Whitesnake - Give Me All Your Love (2018 Remaster).flac
+Feb 13 09:52 : update: added /01. Whitesnake - Crying In The Rain (1987 Version - 2018 Remaster).flac
+Feb 13 09:52 : update: added /02. Whitesnake - Bad Boys (2018 Remaster).flac
+Feb 13 09:52 : update: added /08. Whitesnake - Straight For The Heart (2018 Remaster).flac
+Feb 13 09:52 : update: added /06. Whitesnake - Is This Love (2018 Remaster).flac
+Feb 13 09:52 : update: added /04. Whitesnake - Here I Go Again (1987 Version - 2018 Remaster).flac
+Feb 13 09:52 : update: added /03. Whitesnake - Still Of The Night (2018 Remaster).flac
+Feb 13 09:52 : update: added /07. Whitesnake - Children Of The Night (2018 Remaster).flac
+Feb 13 09:53 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 09:55 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 09:59 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 10:00 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 10:00 : exception: Not playing
+Feb 13 10:00 : exception: Not playing
+Feb 13 10:08 : player: played "smooth/TOTO - Rosanna.flac"
+Feb 13 10:09 : player: played "Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 10:09 : exception: Not playing
+Feb 13 10:09 : exception: Not playing
+Feb 13 10:09 : player: played "Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 10:09 : exception: Not playing
+Feb 13 10:09 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 10:09 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 10:09 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 10:09 : update: added /The Outfield - Your Love.flac
+Feb 13 10:13 : player: played "Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Mystery Man.flac; Failed to open '/home/ani/Music/The Outfield - Mystery Man.flac': No such file or directory
+Feb 13 10:15 : player: played "The Outfield - Mystery Man.flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac; Failed to open '/home/ani/Music/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac': No such file or directory
+Feb 13 10:15 : player: played "Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac; Failed to open '/home/ani/Music/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac': No such file or directory
+Feb 13 10:15 : exception: Not playing
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Mystery Man.flac; Failed to open '/home/ani/Music/The Outfield - Mystery Man.flac': No such file or directory
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : player: played "The Outfield - Mystery Man.flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : exception: Not playing
+Feb 13 10:15 : exception: Not playing
+Feb 13 10:15 : exception: Not playing
+Feb 13 10:15 : exception: Not playing
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac; Failed to open '/home/ani/Music/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac': No such file or directory
+Feb 13 10:15 : player: played "Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac; Failed to open '/home/ani/Music/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac': No such file or directory
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Mystery Man.flac; Failed to open '/home/ani/Music/The Outfield - Mystery Man.flac': No such file or directory
+Feb 13 10:15 : player: played "The Outfield - Mystery Man.flac"
+Feb 13 10:15 : exception: Failed to decode /home/ani/Music/The Outfield - Say It Isn't So.flac; Failed to open '/home/ani/Music/The Outfield - Say It Isn't So.flac': No such file or directory
+Feb 13 10:15 : player: played "The Outfield - Say It Isn't So.flac"
+Feb 13 10:16 : update: removing The Outfield - Your Love.flac
+Feb 13 10:16 : update: removing MOHIT CHAUHAN - Bheegi Si Bhaagi Si (Trance Mix by Deep & DJ Chantz).flac
+Feb 13 10:16 : update: removing The Outfield - Talk To Me.flac
+Feb 13 10:16 : update: removing The Outfield - Mystery Man.flac
+Feb 13 10:16 : update: removing The Outfield - Say It Isn't So.flac
+Feb 13 10:16 : update: removing Ludwig Goransson - Can You Hear The Music.flac
+Feb 13 10:16 : update: removing Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac
+Feb 13 10:16 : update: removing Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac
+Feb 13 10:16 : update: removing Piero Piccioni - Endless Love.flac
+Feb 13 10:16 : update: removing Piero Piccioni - Easy Lovers.flac
+Feb 13 10:16 : update: removing 08. Whitesnake - Straight For The Heart (2018 Remaster).flac
+Feb 13 10:16 : update: removing 07. Whitesnake - Children Of The Night (2018 Remaster).flac
+Feb 13 10:16 : update: removing 06. Whitesnake - Is This Love (2018 Remaster).flac
+Feb 13 10:16 : update: removing 05. Whitesnake - Give Me All Your Love (2018 Remaster).flac
+Feb 13 10:16 : update: removing 04. Whitesnake - Here I Go Again (1987 Version - 2018 Remaster).flac
+Feb 13 10:16 : update: removing 03. Whitesnake - Still Of The Night (2018 Remaster).flac
+Feb 13 10:16 : update: removing 02. Whitesnake - Bad Boys (2018 Remaster).flac
+Feb 13 10:16 : update: removing 01. Whitesnake - Crying In The Rain (1987 Version - 2018 Remaster).flac
+Feb 13 10:16 : update: added lock_in/Piero Piccioni - Endless Love.flac
+Feb 13 10:16 : update: added lock_in/Ludwig Goransson - Can You Hear The Music.flac
+Feb 13 10:16 : update: added lock_in/Piero Piccioni - Easy Lovers.flac
+Feb 13 10:16 : update: added cock/MOHIT CHAUHAN - Bheegi Si Bhaagi Si (Trance Mix by Deep & DJ Chantz).flac
+Feb 13 10:16 : update: added smooth/The Outfield - Mystery Man.flac
+Feb 13 10:16 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 10:16 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 10:16 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 10:16 : update: added smooth/The Outfield - Your Love.flac
+Feb 13 10:16 : update: added smooth/The Outfield - Talk To Me.flac
+Feb 13 10:16 : update: added smooth/05. Whitesnake - Give Me All Your Love (2018 Remaster).flac
+Feb 13 10:16 : update: added smooth/01. Whitesnake - Crying In The Rain (1987 Version - 2018 Remaster).flac
+Feb 13 10:16 : update: added smooth/02. Whitesnake - Bad Boys (2018 Remaster).flac
+Feb 13 10:16 : update: added smooth/08. Whitesnake - Straight For The Heart (2018 Remaster).flac
+Feb 13 10:16 : update: added smooth/06. Whitesnake - Is This Love (2018 Remaster).flac
+Feb 13 10:16 : update: added smooth/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac
+Feb 13 10:16 : update: added smooth/04. Whitesnake - Here I Go Again (1987 Version - 2018 Remaster).flac
+Feb 13 10:16 : update: added smooth/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac
+Feb 13 10:16 : update: added smooth/03. Whitesnake - Still Of The Night (2018 Remaster).flac
+Feb 13 10:16 : update: added smooth/The Outfield - Say It Isn't So.flac
+Feb 13 10:16 : update: added smooth/07. Whitesnake - Children Of The Night (2018 Remaster).flac
+Feb 13 10:17 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 13 10:21 : player: played "smooth/TOTO - Rosanna.flac"
+Feb 13 10:23 : player: played "smooth/Derek & The Dominos - Layla.flac"
+Feb 13 10:26 : player: played "smooth/TOTO - Rosanna.flac"
+Feb 13 10:26 : player: played "smooth/TOTO - Rosanna.flac"
+Feb 13 10:26 : exception: Not playing
+Feb 13 10:26 : exception: Not playing
+Feb 13 10:26 : exception: Not playing
+Feb 13 10:26 : player: played "smooth/TOTO - Rosanna.flac"
+Feb 13 11:09 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 11:09 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 11:09 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 11:09 : exception: Failed to decode smooth/The Outfield - Your Love.flac
+Feb 13 11:09 : player: played "smooth/The Outfield - Your Love.flac"
+Feb 13 11:09 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 11:09 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 11:09 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 11:09 : exception: Failed to decode smooth/The Outfield - Your Love.flac
+Feb 13 11:09 : player: played "smooth/The Outfield - Your Love.flac"
+Feb 13 11:09 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 11:09 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 11:09 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 11:09 : exception: Failed to decode smooth/The Outfield - Your Love.flac
+Feb 13 11:09 : player: played "smooth/The Outfield - Your Love.flac"
+Feb 13 11:09 : exception: Failed to decode smooth/The Outfield - Your Love.flac
+Feb 13 11:13 : player: played "smooth/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 11:17 : player: played "smooth/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 11:21 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 11:21 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 11:21 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 11:21 : exception: Failed to decode smooth/The Outfield - Your Love.flac
+Feb 13 11:21 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 13 11:21 : player: played "smooth/The Outfield - Your Love.flac"
+Feb 13 11:21 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 11:21 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 11:21 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 11:21 : exception: Failed to decode smooth/The Outfield - Your Love.flac
+Feb 13 11:21 : player: played "smooth/The Outfield - Your Love.flac"
+Feb 13 11:22 : player: played "smooth/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 11:26 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 13 11:28 : exception: Failed to open ZIP file /home/ani/Music/Iron Maiden - Fear of the Dark (Remastered 2015) (1992).zip
+Feb 13 11:28 : exception: Failed to open ZIP file /home/ani/Music/Eagles - One Of These Nights (Hi-Res Version) (2013 Remaster) (1975).zip
+Feb 13 11:28 : exception: Failed to open ZIP file /home/ani/Music/Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip
+Feb 13 11:28 : exception: Failed to open ZIP file /home/ani/Music/Red Hot Chili Peppers - Stadium Arcadium (2014 Remaster) (2006).zip
+Feb 13 11:32 : player: played "smooth/The Outfield - Say It Isn't So.flac"
+Feb 13 11:48 : player: played "smooth/TOTO - Africa.flac"
+Feb 13 11:53 : player: played "smooth/08. Whitesnake - Straight For The Heart (2018 Remaster).flac"
+Feb 13 11:54 : player: played "smooth/Sting - Fields Of Gold(1).flac"
+Feb 13 11:54 : exception: Not playing
+Feb 13 11:54 : exception: Not playing
+Feb 13 11:54 : player: played "smooth/Sting - Englishman In New York.flac"
+Feb 13 11:57 : player: played "smooth/04. Whitesnake - Here I Go Again (1987 Version - 2018 Remaster).flac"
+Feb 13 11:59 : exception: No such directory
+Feb 13 11:59 : exception: Failed to open '/home/ani/.config/mpd/playlists/queue.m3u': No such file or directory
+Feb 13 11:59 : exception: No such playlist
+Feb 13 11:59 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 11:59 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 11:59 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 11:59 : exception: Failed to decode smooth/The Outfield - Your Love.flac
+Feb 13 11:59 : player: played "smooth/The Outfield - Your Love.flac"
+Feb 13 11:59 : player: played "smooth/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 12:00 : exception: Not playing
+Feb 13 12:01 : player: played "smooth/07. Whitesnake - Children Of The Night (2018 Remaster).flac"
+Feb 13 12:01 : exception: Not playing
+Feb 13 12:14 : update: added /Fleetwood Mac - Big Love (2017 Remaster).flac
+Feb 13 12:14 : update: added /Fleetwood Mac - Caroline (2017 Remaster).flac
+Feb 13 12:14 : update: added /Fleetwood Mac - Isn't It Midnight (2017 Remaster).flac
+Feb 13 12:14 : update: added /Fleetwood Mac - Book of Love (2016 Remaster).flac
+Feb 13 12:14 : update: added /Fleetwood Mac - Can't Go Back (2016 Remaster).flac
+Feb 13 12:14 : update: added /Fleetwood Mac - Seven Wonders (2017 Remaster).flac
+Feb 13 12:14 : update: added /Fleetwood Mac - Silver Springs (2004 Remaster).flac
+Feb 13 12:14 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 12:14 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 12:14 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 12:14 : update: added /Fleetwood Mac - Only over You (2016 Remaster).flac
+Feb 13 12:14 : update: added /Fleetwood Mac - Dreams (2004 Remaster).flac
+Feb 13 12:14 : update: added /Fleetwood Mac - Everywhere (2017 Remaster).flac
+Feb 13 12:14 : update: added /Fleetwood Mac - Don't Stop (2004 Remaster).flac
+Feb 13 12:20 : player: played "Fleetwood Mac - Everywhere (2017 Remaster).flac"
+Feb 13 12:24 : player: played "Fleetwood Mac - Isn't It Midnight (2017 Remaster).flac"
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/01. Rammstein - Mein Herz brennt.flac
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/02. Rammstein - Links 2 3 4.flac
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/03. Rammstein - Sonne.flac
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/04. Rammstein - Ich will.flac
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/05. Rammstein - Feuer frei!.flac
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/06. Rammstein - Mutter.flac
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/07. Rammstein - Spieluhr.flac
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/08. Rammstein - Zwitter.flac
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/09. Rammstein - Rein raus.flac
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/10. Rammstein - Adios.flac
+Feb 13 12:25 : update: added Rammstein - Mutter (2001).zip/11. Rammstein - Nebel.flac
+Feb 13 12:25 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 12:25 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 12:25 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 12:25 : update: added /Fleetwood Mac - Gypsy (2016 Remaster).flac
+Feb 13 12:25 : update: added Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/1. Iron Maiden - Invaders (Remastered 2015).flac
+Feb 13 12:25 : update: added Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/2. Iron Maiden - Children of the Damned (Remastered 2015).flac
+Feb 13 12:25 : update: added Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/3. Iron Maiden - The Prisoner (Remastered 2015).flac
+Feb 13 12:25 : update: added Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/4. Iron Maiden - 22 Acacia Avenue (Remastered 2015).flac
+Feb 13 12:25 : update: added Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/5. Iron Maiden - The Number of the Beast (Remastered 2015).flac
+Feb 13 12:25 : update: added Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/6. Iron Maiden - Run to the Hills (Remastered 2015).flac
+Feb 13 12:25 : update: added Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/7. Iron Maiden - Gangland (Remastered 2015).flac
+Feb 13 12:25 : update: added Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/8. Iron Maiden - Hallowed Be Thy Name (Remastered 1982).flac
+Feb 13 12:25 : update: added /Fleetwood Mac - Little Lies (2017 Remaster).flac
+Feb 13 12:25 : update: updating /Fleetwood Mac - Silver Springs (2004 Remaster).flac
+Feb 13 12:25 : update: updating /Fleetwood Mac - Dreams (2004 Remaster).flac
+Feb 13 12:26 : update: added /1. Iron Maiden - Invaders (Remastered 2015).flac
+Feb 13 12:26 : update: added /2. Iron Maiden - Children of the Damned (Remastered 2015).flac
+Feb 13 12:26 : update: added /8. Iron Maiden - Hallowed Be Thy Name (Remastered 1982).flac
+Feb 13 12:26 : update: added /7. Iron Maiden - Gangland (Remastered 2015).flac
+Feb 13 12:26 : update: added /4. Iron Maiden - 22 Acacia Avenue (Remastered 2015).flac
+Feb 13 12:26 : update: added /6. Iron Maiden - Run to the Hills (Remastered 2015).flac
+Feb 13 12:26 : update: added /3. Iron Maiden - The Prisoner (Remastered 2015).flac
+Feb 13 12:26 : update: added /5. Iron Maiden - The Number of the Beast (Remastered 2015).flac
+Feb 13 12:26 : update: added /11. Rammstein - Nebel.flac
+Feb 13 12:26 : update: added /09. Rammstein - Rein raus.flac
+Feb 13 12:26 : update: added /02. Rammstein - Links 2 3 4.flac
+Feb 13 12:26 : update: added /10. Rammstein - Adios.flac
+Feb 13 12:26 : update: added /05. Rammstein - Feuer frei!.flac
+Feb 13 12:26 : update: added /03. Rammstein - Sonne.flac
+Feb 13 12:26 : update: added /01. Rammstein - Mein Herz brennt.flac
+Feb 13 12:26 : update: added /07. Rammstein - Spieluhr.flac
+Feb 13 12:26 : update: added /08. Rammstein - Zwitter.flac
+Feb 13 12:26 : update: added /06. Rammstein - Mutter.flac
+Feb 13 12:26 : update: added /04. Rammstein - Ich will.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/11. Rammstein - Nebel.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/10. Rammstein - Adios.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/09. Rammstein - Rein raus.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/08. Rammstein - Zwitter.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/07. Rammstein - Spieluhr.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/06. Rammstein - Mutter.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/05. Rammstein - Feuer frei!.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/04. Rammstein - Ich will.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/03. Rammstein - Sonne.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/02. Rammstein - Links 2 3 4.flac
+Feb 13 12:26 : update: removing Rammstein - Mutter (2001).zip/01. Rammstein - Mein Herz brennt.flac
+Feb 13 12:26 : update: removing Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/8. Iron Maiden - Hallowed Be Thy Name (Remastered 1982).flac
+Feb 13 12:26 : update: removing Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/7. Iron Maiden - Gangland (Remastered 2015).flac
+Feb 13 12:26 : update: removing Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/6. Iron Maiden - Run to the Hills (Remastered 2015).flac
+Feb 13 12:26 : update: removing Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/5. Iron Maiden - The Number of the Beast (Remastered 2015).flac
+Feb 13 12:26 : update: removing Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/4. Iron Maiden - 22 Acacia Avenue (Remastered 2015).flac
+Feb 13 12:26 : update: removing Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/3. Iron Maiden - The Prisoner (Remastered 2015).flac
+Feb 13 12:26 : update: removing Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/2. Iron Maiden - Children of the Damned (Remastered 2015).flac
+Feb 13 12:26 : update: removing Iron Maiden - The Number of the Beast (Remastered 2015) (1982).zip/1. Iron Maiden - Invaders (Remastered 2015).flac
+Feb 13 12:29 : player: played "Fleetwood Mac - Little Lies (2017 Remaster).flac"
+Feb 13 12:35 : player: played "Fleetwood Mac - Little Lies (2017 Remaster).flac"
+Feb 13 12:40 : player: played "01. Rammstein - Mein Herz brennt.flac"
+Feb 13 12:44 : player: played "02. Rammstein - Links 2 3 4.flac"
+Feb 13 12:48 : player: played "03. Rammstein - Sonne.flac"
+Feb 13 12:53 : player: played "Fleetwood Mac - Isn't It Midnight (2017 Remaster).flac"
+Feb 13 12:58 : player: played "01. Rammstein - Mein Herz brennt.flac"
+Feb 13 13:02 : player: played "02. Rammstein - Links 2 3 4.flac"
+Feb 13 18:53 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 18:53 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 18:53 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 18:53 : update: added /Phil Collins - Another Day in Paradise (2016 Remaster).flac
+Feb 13 18:53 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 18:53 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 18:53 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 18:53 : update: added /Phil Collins - This Must Be Love (2015 Remaster).flac
+Feb 13 18:53 : update: added /Elton John - Rocket Man (I Think It's Going To Be A Long, Long Time).flac
+Feb 13 18:53 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 18:53 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 18:53 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 18:53 : update: added /Elton John - Sacrifice.flac
+Feb 13 18:53 : update: added /Elton John - Candle In The Wind (Remastered 2014).flac
+Feb 13 18:53 : update: added /Elton John - Daniel.flac
+Feb 13 18:53 : update: added /Elton John - Bennie And The Jets (Remastered 2014).flac
+Feb 13 18:53 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 18:53 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 18:53 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 18:53 : update: added /Phil Collins - In the Air Tonight (2015 Remaster).flac
+Feb 13 18:53 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 18:53 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 18:53 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 18:53 : update: added /Elton John - Don't Go Breaking My Heart.flac
+Feb 13 18:53 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 18:53 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 18:53 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 18:53 : update: added /Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 13 18:53 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 18:53 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 18:53 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 18:53 : update: added /Phil Collins - Against All Odds (Take a Look at Me Now) (2016 Remaster)(1).flac
+Feb 13 18:53 : update: added /Phil Collins - Against All Odds (Take a Look at Me Now) (2016 Remaster).flac
+Feb 13 18:53 : update: added /Elton John - Crocodile Rock.flac
+Feb 13 18:53 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 18:53 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 18:53 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 18:53 : update: added /Elton John - I'm Still Standing.flac
+Feb 13 18:53 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 18:53 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 18:53 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 18:53 : update: added /Phil Collins - You Can't Hurry Love (2016 Remaster).flac
+Feb 13 18:53 : update: added /Elton John - Tiny Dancer.flac
+Feb 13 18:58 : player: played "Fleetwood Mac - Isn't It Midnight (2017 Remaster).flac"
+Feb 13 19:02 : player: played "Fleetwood Mac - Little Lies (2017 Remaster).flac"
+Feb 13 19:06 : player: played "01. Rammstein - Mein Herz brennt.flac"
+Feb 13 19:33 : update: added /Kishore Kumar - Dil Kya Kare (From _Julie_)(1).flac
+Feb 13 19:33 : update: added /Lata Mangeshkar - Saagar Kinare (From _Saagar_).flac
+Feb 13 19:33 : update: added /Kishore Kumar - Chhu Kar Mere Manko (From _Yaarana_).flac
+Feb 13 19:33 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 19:33 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 19:33 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 19:33 : update: updating /Fleetwood Mac - Gypsy (2016 Remaster).flac
+Feb 13 19:33 : update: added /Kishore Kumar - Yeh Sham Mastani (From _Kati Patang_).flac
+Feb 13 19:33 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 19:33 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 19:33 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 19:33 : update: added /Kishore Kumar - Jaane Jaan Dhoondata (From _Jawani Diwani_).flac
+Feb 13 19:33 : update: added /Kishore Kumar - Chalte Chalte (Part 1 _ From _Chalte Chalte_).flac
+Feb 13 19:33 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 19:33 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 19:33 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 19:33 : update: added /Kishore Kumar - Pyar Diwana Hota Hai (From _Kati Patang_).flac
+Feb 13 19:33 : update: added /Kishore Kumar - Pal Bhar Ke Liye (From _Johny Mera Naam_).flac
+Feb 13 19:33 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 19:33 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 19:33 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 19:33 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 19:33 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 19:33 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 19:34 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 19:34 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 19:34 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 19:34 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 13 19:34 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 13 19:34 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 13 19:39 : player: played "Fleetwood Mac - Gypsy (2016 Remaster).flac"
+Feb 13 19:42 : player: played "Fleetwood Mac - Can't Go Back (2016 Remaster).flac"
+Feb 13 19:42 : player: played "Fleetwood Mac - Can't Go Back (2016 Remaster).flac"
+Feb 13 19:42 : exception: Not playing
+Feb 13 19:43 : player: played "smooth/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 19:48 : player: played "smooth/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 19:52 : player: played "smooth/The Outfield - Mystery Man.flac"
+Feb 13 20:03 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Feb 13 20:03 : player: played "Fleetwood Mac - Everywhere (2017 Remaster).flac"
+Feb 13 20:20 : player: played "Fleetwood Mac - Isn't It Midnight (2017 Remaster).flac"
+Feb 13 20:30 : player: played "Fleetwood Mac - Gypsy (2016 Remaster).flac"
+Feb 13 23:18 : player: played "Kishore Kumar - Dil Kya Kare (From _Julie_)(1).flac"
+Feb 13 23:23 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 13 23:25 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 13 23:29 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 13 23:30 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 13 23:34 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 13 23:38 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 13 23:41 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 13 23:45 : player: played "smooth/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 13 23:50 : player: played "smooth/06. Whitesnake - Is This Love (2018 Remaster).flac"
+Feb 13 23:56 : player: played "Elton John - Daniel.flac"
+Feb 14 00:00 : player: played "Fleetwood Mac - Don't Stop (2004 Remaster).flac"
+Feb 14 00:05 : player: played "Fleetwood Mac - Silver Springs (2004 Remaster).flac"
+Feb 14 08:17 : player: played "Fleetwood Mac - Gypsy (2016 Remaster).flac"
+Feb 14 08:18 : player: played "Fleetwood Mac - Caroline (2017 Remaster).flac"
+Feb 14 08:20 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 14 08:24 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 14 08:24 : exception: Not playing
+Feb 14 08:24 : exception: Not playing
+Feb 14 08:28 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 14 08:32 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 14 08:36 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 14 08:41 : player: played "smooth/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 14 08:45 : player: played "smooth/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 14 08:50 : player: played "Fleetwood Mac - Everywhere (2017 Remaster).flac"
+Feb 14 10:56 : player: played "Kishore Kumar - Chalte Chalte (Part 1 _ From _Chalte Chalte_).flac"
+Feb 14 10:58 : player: played "Kishore Kumar - Chalte Chalte (Part 1 _ From _Chalte Chalte_).flac"
+Feb 14 11:02 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 14 11:06 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 14 11:56 : player: played "smooth/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 14 11:59 : player: played "6. Iron Maiden - Run to the Hills (Remastered 2015).flac"
+Feb 14 17:19 : player: played "Fleetwood Mac - Little Lies (2017 Remaster).flac"
+Feb 14 17:24 : player: played "smooth/Sting - Englishman In New York.flac"
+Feb 14 17:26 : update: removing 4. Iron Maiden - 22 Acacia Avenue (Remastered 2015).flac
+Feb 14 17:26 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 14 17:26 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 14 17:26 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 14 17:26 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 14 17:26 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 14 17:26 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 14 17:27 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 14 17:27 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 14 17:27 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 14 17:27 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 14 17:27 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 14 17:27 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 14 17:27 : update: removing smooth/The Outfield - Your Love.flac
+Feb 14 17:30 : player: played "smooth/TOTO - Rosanna.flac"
+Feb 14 17:35 : player: played "smooth/TOTO - Africa.flac"
+Feb 14 17:40 : player: played "smooth/06. Whitesnake - Is This Love (2018 Remaster).flac"
+Feb 14 17:43 : player: played "smooth/08. Whitesnake - Straight For The Heart (2018 Remaster).flac"
+Feb 14 17:50 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 14 17:50 : player: played "smooth/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 14 23:01 : player: played "Phil Collins - Against All Odds (Take a Look at Me Now) (2016 Remaster).flac"
+Feb 14 23:05 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 14 23:07 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 14 23:12 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 14 23:13 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 14 23:13 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 14 23:13 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 14 23:13 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 14 23:13 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 14 23:13 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 14 23:13 : update: added /Kishore Kumar - Pal Pal Dil Ke Paas (From _Blackmail_).flac
+Feb 14 23:14 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 14 23:14 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 14 23:14 : exception: Decoder failed to seek
+Feb 14 23:18 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 14 23:20 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 14 23:23 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 14 23:27 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 14 23:31 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 14 23:31 : exception: No such song
+Feb 14 23:35 : player: played "smooth/The Outfield - Mystery Man.flac"
+Feb 14 23:39 : player: played "smooth/The Outfield - Talk To Me.flac"
+Feb 14 23:43 : player: played "smooth/The Outfield - Say It Isn't So.flac"
+Feb 15 08:17 : player: played "smooth/The Outfield - Say It Isn't So.flac"
+Feb 15 08:21 : player: played "smooth/The Outfield - Talk To Me.flac"
+Feb 15 08:25 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 15 08:29 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 15 08:33 : player: played "smooth/The Outfield - Say It Isn't So.flac"
+Feb 15 08:33 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 15 08:33 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 15 08:33 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 15 08:33 : exception: Failed to decode Elton John - Don't Go Breaking My Heart.flac
+Feb 15 08:33 : player: played "Elton John - Don't Go Breaking My Heart.flac"
+Feb 15 08:33 : exception: Failed to decode Elton John - Don't Go Breaking My Heart.flac
+Feb 15 08:34 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 15 08:34 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 15 08:34 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : player: played "Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac"
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 15 08:34 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 15 08:34 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : player: played "Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac"
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 15 08:34 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 15 08:34 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : player: played "Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac"
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 15 08:34 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 15 08:34 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 15 08:34 : exception: Failed to decode Elton John - Don't Go Breaking My Heart.flac
+Feb 15 08:34 : player: played "Elton John - Don't Go Breaking My Heart.flac"
+Feb 15 08:34 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 15 08:34 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 15 08:34 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : player: played "Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac"
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 15 08:34 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 15 08:34 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : player: played "Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac"
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 15 08:34 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 15 08:34 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:34 : player: played "Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac"
+Feb 15 08:34 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:40 : player: played "Fleetwood Mac - Gypsy (2016 Remaster).flac"
+Feb 15 08:45 : player: played "Fleetwood Mac - Gypsy (2016 Remaster).flac"
+Feb 15 08:47 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 15 08:47 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 15 08:47 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 15 08:47 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:47 : player: played "Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac"
+Feb 15 08:47 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 15 08:47 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 15 08:47 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 15 08:47 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 15 08:47 : exception: Failed to decode Elton John - Don't Go Breaking My Heart.flac
+Feb 15 08:47 : player: played "Elton John - Don't Go Breaking My Heart.flac"
+Feb 15 08:47 : exception: Failed to decode Elton John - Don't Go Breaking My Heart.flac
+Feb 16 10:53 : player: played "Fleetwood Mac - Big Love (2017 Remaster).flac"
+Feb 16 10:58 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 16 11:02 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 16 14:49 : player: played "smooth/Derek & The Dominos - Layla.flac"
+Feb 16 15:00 : player: played "8. Iron Maiden - Hallowed Be Thy Name (Remastered 1982).flac"
+Feb 16 15:05 : player: played "5. Iron Maiden - The Number of the Beast (Remastered 2015).flac"
+Feb 16 17:46 : player: played "5. Iron Maiden - The Number of the Beast (Remastered 2015).flac"
+Feb 16 17:50 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 16 17:55 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 16 18:07 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 16 18:10 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 16 18:13 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 16 18:16 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 16 19:31 : player: played "smooth/The Outfield - Say It Isn't So.flac"
+Feb 16 19:38 : player: played "smooth/The Outfield - Talk To Me.flac"
+Feb 16 19:41 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 17 09:05 : player: played "smooth/04. Whitesnake - Here I Go Again (1987 Version - 2018 Remaster).flac"
+Feb 17 09:08 : player: played "smooth/08. Whitesnake - Straight For The Heart (2018 Remaster).flac"
+Feb 17 09:09 : update: added /The Cars - Just What I Needed.flac
+Feb 17 09:09 : update: added /The Cars - Just What I Needed .flac
+Feb 17 09:09 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:09 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:09 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:09 : update: added /The Cars - Moving in Stereo .flac
+Feb 17 09:09 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:09 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:09 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:09 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:09 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:09 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:09 : update: added /The Cars - Drive (2016 Remaster).flac
+Feb 17 09:09 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:09 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:09 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:09 : update: added /The Cars - You're All I've Got Tonight .flac
+Feb 17 09:09 : update: added /The Cars - It's All I Can Do (2016 Remaster).flac
+Feb 17 09:09 : update: added /The Cars - Magic (2018 Remaster).flac
+Feb 17 09:12 : player: played "smooth/02. Whitesnake - Bad Boys (2018 Remaster).flac"
+Feb 17 09:17 : player: played "The Cars - Moving in Stereo .flac"
+Feb 17 09:21 : player: played "The Cars - Magic (2018 Remaster).flac"
+Feb 17 09:21 : exception: Not playing
+Feb 17 09:26 : player: played "smooth/06. Whitesnake - Is This Love (2018 Remaster).flac"
+Feb 17 09:29 : update: added /Dire Straits - Brothers in Arms.flac
+Feb 17 09:29 : update: added /Dire Straits - Your Latest Trick.flac
+Feb 17 09:29 : update: added /Dire Straits - Walk of Life.flac
+Feb 17 09:29 : update: added /Dire Straits - So Far Away.flac
+Feb 17 09:29 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:29 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:29 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:29 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:29 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:29 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:29 : update: added /Kishore Kumar - Dil Kya Kare (From _Julie_).flac
+Feb 17 09:29 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:29 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:29 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:29 : update: added /Dire Straits - Ride Across the River.flac
+Feb 17 09:29 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:29 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:29 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:29 : update: added Dire Straits - Communiqué (1984).zip/1. Dire Straits - Once Upon a Time in the West.flac
+Feb 17 09:29 : update: added Dire Straits - Communiqué (1984).zip/2. Dire Straits - News.flac
+Feb 17 09:29 : update: added Dire Straits - Communiqué (1984).zip/4. Dire Straits - Communiqué.flac
+Feb 17 09:29 : update: added Dire Straits - Communiqué (1984).zip/5. Dire Straits - Lady Writer.flac
+Feb 17 09:29 : update: added Dire Straits - Communiqué (1984).zip/6. Dire Straits - Angel of Mercy.flac
+Feb 17 09:29 : update: added Dire Straits - Communiqué (1984).zip/7. Dire Straits - Portobello Belle.flac
+Feb 17 09:29 : update: added Dire Straits - Communiqué (1984).zip/8. Dire Straits - Single-Handed Sailor.flac
+Feb 17 09:29 : update: added Dire Straits - Communiqué (1984).zip/9. Dire Straits - Follow Me Home.flac
+Feb 17 09:29 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:29 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:29 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:29 : update: added Dire Straits - Dire Straits (1978).zip/1. Dire Straits - Down to the Waterline.flac
+Feb 17 09:29 : update: added Dire Straits - Dire Straits (1978).zip/2. Dire Straits - Water of Love.flac
+Feb 17 09:29 : update: added Dire Straits - Dire Straits (1978).zip/3. Dire Straits - Setting Me Up.flac
+Feb 17 09:29 : update: added Dire Straits - Dire Straits (1978).zip/4. Dire Straits - Six Blade Knife.flac
+Feb 17 09:29 : update: added Dire Straits - Dire Straits (1978).zip/5. Dire Straits - Southbound Again.flac
+Feb 17 09:29 : update: added Dire Straits - Dire Straits (1978).zip/6. Dire Straits - Sultans of Swing.flac
+Feb 17 09:29 : update: added Dire Straits - Dire Straits (1978).zip/7. Dire Straits - In the Gallery.flac
+Feb 17 09:29 : update: added Dire Straits - Dire Straits (1978).zip/8. Dire Straits - Wild West End.flac
+Feb 17 09:29 : update: added Dire Straits - Dire Straits (1978).zip/9. Dire Straits - Lions.flac
+Feb 17 09:29 : update: added /4. Dire Straits - Communiqué.flac
+Feb 17 09:29 : update: added /7. Dire Straits - Portobello Belle.flac
+Feb 17 09:29 : update: added /2. Dire Straits - News.flac
+Feb 17 09:29 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:29 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:29 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:29 : update: added /The Cars - You Might Think (2018 Remaster).flac
+Feb 17 09:29 : update: added /6. Dire Straits - Angel of Mercy.flac
+Feb 17 09:29 : update: added /9. Dire Straits - Follow Me Home.flac
+Feb 17 09:29 : update: added /8. Dire Straits - Single-Handed Sailor.flac
+Feb 17 09:29 : update: added /1. Dire Straits - Once Upon a Time in the West.flac
+Feb 17 09:29 : update: added /3. Dire Straits - Where Do You Think You're Going?.flac
+Feb 17 09:29 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 09:29 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 09:29 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 09:29 : update: added /Dire Straits - Money for Nothing.flac
+Feb 17 09:29 : update: added /5. Dire Straits - Lady Writer.flac
+Feb 17 09:29 : update: added /8. Dire Straits - Wild West End.flac
+Feb 17 09:29 : update: added /9. Dire Straits - Lions.flac
+Feb 17 09:29 : update: added /4. Dire Straits - Six Blade Knife.flac
+Feb 17 09:29 : update: added /1. Dire Straits - Down to the Waterline.flac
+Feb 17 09:29 : update: added /5. Dire Straits - Southbound Again.flac
+Feb 17 09:29 : update: added /2. Dire Straits - Water of Love.flac
+Feb 17 09:29 : update: added /7. Dire Straits - In the Gallery.flac
+Feb 17 09:29 : update: added /3. Dire Straits - Setting Me Up.flac
+Feb 17 09:29 : update: added /6. Dire Straits - Sultans of Swing.flac
+Feb 17 09:30 : update: removing Dire Straits - Communiqué (1984).zip/9. Dire Straits - Follow Me Home.flac
+Feb 17 09:30 : update: removing Dire Straits - Communiqué (1984).zip/8. Dire Straits - Single-Handed Sailor.flac
+Feb 17 09:30 : update: removing Dire Straits - Communiqué (1984).zip/7. Dire Straits - Portobello Belle.flac
+Feb 17 09:30 : update: removing Dire Straits - Communiqué (1984).zip/6. Dire Straits - Angel of Mercy.flac
+Feb 17 09:30 : update: removing Dire Straits - Communiqué (1984).zip/5. Dire Straits - Lady Writer.flac
+Feb 17 09:30 : update: removing Dire Straits - Communiqué (1984).zip/4. Dire Straits - Communiqué.flac
+Feb 17 09:30 : update: removing Dire Straits - Communiqué (1984).zip/2. Dire Straits - News.flac
+Feb 17 09:30 : update: removing Dire Straits - Communiqué (1984).zip/1. Dire Straits - Once Upon a Time in the West.flac
+Feb 17 09:30 : update: removing Dire Straits - Dire Straits (1978).zip/9. Dire Straits - Lions.flac
+Feb 17 09:30 : update: removing Dire Straits - Dire Straits (1978).zip/8. Dire Straits - Wild West End.flac
+Feb 17 09:30 : update: removing Dire Straits - Dire Straits (1978).zip/7. Dire Straits - In the Gallery.flac
+Feb 17 09:30 : update: removing Dire Straits - Dire Straits (1978).zip/6. Dire Straits - Sultans of Swing.flac
+Feb 17 09:30 : update: removing Dire Straits - Dire Straits (1978).zip/5. Dire Straits - Southbound Again.flac
+Feb 17 09:30 : update: removing Dire Straits - Dire Straits (1978).zip/4. Dire Straits - Six Blade Knife.flac
+Feb 17 09:30 : update: removing Dire Straits - Dire Straits (1978).zip/3. Dire Straits - Setting Me Up.flac
+Feb 17 09:30 : update: removing Dire Straits - Dire Straits (1978).zip/2. Dire Straits - Water of Love.flac
+Feb 17 09:30 : update: removing Dire Straits - Dire Straits (1978).zip/1. Dire Straits - Down to the Waterline.flac
+Feb 17 09:30 : player: played "smooth/08. Whitesnake - Straight For The Heart (2018 Remaster).flac"
+Feb 17 09:30 : player: played "The Cars - Moving in Stereo .flac"
+Feb 17 09:35 : player: played "Dire Straits - Walk of Life.flac"
+Feb 17 10:06 : player: played "Dire Straits - Brothers in Arms.flac"
+Feb 17 10:10 : player: played "5. Dire Straits - Lady Writer.flac"
+Feb 17 10:16 : player: played "6. Dire Straits - Sultans of Swing.flac"
+Feb 17 10:20 : player: played "2. Dire Straits - News.flac"
+Feb 17 10:32 : player: played "Fleetwood Mac - Gypsy (2016 Remaster).flac"
+Feb 17 11:21 : player: played "Fleetwood Mac - Isn't It Midnight (2017 Remaster).flac"
+Feb 17 11:29 : player: played "smooth/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 17 11:33 : player: played "4. Dire Straits - Six Blade Knife.flac"
+Feb 17 14:30 : player: played "smooth/Derek & The Dominos - Layla.flac"
+Feb 17 14:30 : player: played "smooth/Sting - Fields Of Gold(1).flac"
+Feb 17 14:34 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 17 14:37 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 17 14:40 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 17 14:45 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 17 14:47 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 17 14:51 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 17 18:15 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 17 18:20 : player: played "Elton John - Daniel.flac"
+Feb 17 18:30 : player: played "1. Dire Straits - Down to the Waterline.flac"
+Feb 17 18:36 : player: played "2. Dire Straits - Water of Love.flac"
+Feb 17 18:50 : player: played "3. Dire Straits - Setting Me Up.flac"
+Feb 17 18:54 : player: played "4. Dire Straits - Six Blade Knife.flac"
+Feb 17 19:18 : player: played "5. Dire Straits - Southbound Again.flac"
+Feb 17 19:22 : player: played "6. Dire Straits - Sultans of Swing.flac"
+Feb 17 19:26 : player: played "1. Dire Straits - Down to the Waterline.flac"
+Feb 17 19:27 : player: played "4. Dire Straits - Six Blade Knife.flac"
+Feb 17 19:32 : player: played "4. Dire Straits - Six Blade Knife.flac"
+Feb 17 19:39 : player: played "4. Dire Straits - Communiqué.flac"
+Feb 17 19:40 : player: played "5. Dire Straits - Lady Writer.flac"
+Feb 17 19:46 : player: played "1. Dire Straits - Once Upon a Time in the West.flac"
+Feb 17 19:54 : player: played "2. Dire Straits - News.flac"
+Feb 17 22:34 : player: played "3. Dire Straits - Where Do You Think You're Going?.flac"
+Feb 17 22:40 : player: played "4. Dire Straits - Communiqué.flac"
+Feb 17 22:43 : player: played "5. Dire Straits - Lady Writer.flac"
+Feb 17 22:48 : player: played "6. Dire Straits - Angel of Mercy.flac"
+Feb 17 22:54 : update: added cock/Kishore Kumar - Dil Kya Kare (From _Julie_)(1).flac
+Feb 17 22:54 : update: added cock/Lata Mangeshkar - Saagar Kinare (From _Saagar_).flac
+Feb 17 22:54 : update: added cock/Kishore Kumar - Chhu Kar Mere Manko (From _Yaarana_).flac
+Feb 17 22:54 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:54 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:54 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:54 : update: added cock/Kishore Kumar - Yeh Sham Mastani (From _Kati Patang_).flac
+Feb 17 22:54 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:54 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:54 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:54 : update: added cock/Kishore Kumar - Chalte Chalte (Part 1 _ From _Chalte Chalte_).flac
+Feb 17 22:54 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:54 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:54 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:54 : update: added cock/Kishore Kumar - Pyar Diwana Hota Hai (From _Kati Patang_).flac
+Feb 17 22:54 : update: added cock/Kishore Kumar - Pal Bhar Ke Liye (From _Johny Mera Naam_).flac
+Feb 17 22:54 : update: removing smooth/The Outfield - Talk To Me.flac
+Feb 17 22:54 : update: removing smooth/The Outfield - Mystery Man.flac
+Feb 17 22:54 : update: removing smooth/The Outfield - Say It Isn't So.flac
+Feb 17 22:54 : update: removing smooth/Derek & The Dominos - Layla.flac
+Feb 17 22:54 : update: removing smooth/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac
+Feb 17 22:54 : update: removing smooth/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac
+Feb 17 22:54 : update: removing smooth/08. Whitesnake - Straight For The Heart (2018 Remaster).flac
+Feb 17 22:54 : update: removing smooth/07. Whitesnake - Children Of The Night (2018 Remaster).flac
+Feb 17 22:54 : update: removing smooth/06. Whitesnake - Is This Love (2018 Remaster).flac
+Feb 17 22:54 : update: removing smooth/05. Whitesnake - Give Me All Your Love (2018 Remaster).flac
+Feb 17 22:54 : update: removing smooth/04. Whitesnake - Here I Go Again (1987 Version - 2018 Remaster).flac
+Feb 17 22:54 : update: removing smooth/03. Whitesnake - Still Of The Night (2018 Remaster).flac
+Feb 17 22:54 : update: removing smooth/02. Whitesnake - Bad Boys (2018 Remaster).flac
+Feb 17 22:54 : update: removing smooth/01. Whitesnake - Crying In The Rain (1987 Version - 2018 Remaster).flac
+Feb 17 22:54 : update: removing smooth/TOTO - Africa.flac
+Feb 17 22:54 : update: removing smooth/TOTO - Rosanna.flac
+Feb 17 22:54 : update: removing smooth/Sting - Englishman In New York.flac
+Feb 17 22:54 : update: removing smooth/Sting - Fields Of Gold(1).flac
+Feb 17 22:54 : exception: No such directory
+Feb 17 22:55 : update: removing Kishore Kumar - Dil Kya Kare (From _Julie_).flac
+Feb 17 22:55 : update: removing Kishore Kumar - Chalte Chalte (Part 1 _ From _Chalte Chalte_).flac
+Feb 17 22:55 : update: removing Kishore Kumar - Pal Pal Dil Ke Paas (From _Blackmail_).flac
+Feb 17 22:55 : update: removing Kishore Kumar - Jaane Jaan Dhoondata (From _Jawani Diwani_).flac
+Feb 17 22:55 : update: removing Kishore Kumar - Pal Bhar Ke Liye (From _Johny Mera Naam_).flac
+Feb 17 22:55 : update: removing Lata Mangeshkar - Saagar Kinare (From _Saagar_).flac
+Feb 17 22:55 : update: removing Kishore Kumar - Chhu Kar Mere Manko (From _Yaarana_).flac
+Feb 17 22:55 : update: removing Kishore Kumar - Dil Kya Kare (From _Julie_)(1).flac
+Feb 17 22:55 : update: removing Kishore Kumar - Yeh Sham Mastani (From _Kati Patang_).flac
+Feb 17 22:55 : update: removing Kishore Kumar - Pyar Diwana Hota Hai (From _Kati Patang_).flac
+Feb 17 22:55 : update: added /The Outfield - Mystery Man.flac
+Feb 17 22:55 : update: added /Sting - Fields Of Gold(1).flac
+Feb 17 22:55 : update: added /The Outfield - Talk To Me.flac
+Feb 17 22:55 : update: added /05. Whitesnake - Give Me All Your Love (2018 Remaster).flac
+Feb 17 22:55 : update: added /TOTO - Africa.flac
+Feb 17 22:55 : update: added /01. Whitesnake - Crying In The Rain (1987 Version - 2018 Remaster).flac
+Feb 17 22:55 : update: added /02. Whitesnake - Bad Boys (2018 Remaster).flac
+Feb 17 22:55 : update: added /08. Whitesnake - Straight For The Heart (2018 Remaster).flac
+Feb 17 22:55 : update: added /Derek & The Dominos - Layla.flac
+Feb 17 22:55 : update: added /06. Whitesnake - Is This Love (2018 Remaster).flac
+Feb 17 22:55 : update: added /Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac
+Feb 17 22:55 : update: added /04. Whitesnake - Here I Go Again (1987 Version - 2018 Remaster).flac
+Feb 17 22:55 : update: added /Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac
+Feb 17 22:55 : update: added /TOTO - Rosanna.flac
+Feb 17 22:55 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:55 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:55 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:55 : update: added cock/Kishore Kumar - Dil Kya Kare (From _Julie_).flac
+Feb 17 22:55 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:55 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:55 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:55 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:55 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:55 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:55 : update: added cock/Kishore Kumar - Pal Pal Dil Ke Paas (From _Blackmail_).flac
+Feb 17 22:55 : update: added /Sting - Englishman In New York.flac
+Feb 17 22:55 : update: added /03. Whitesnake - Still Of The Night (2018 Remaster).flac
+Feb 17 22:55 : update: added /The Outfield - Say It Isn't So.flac
+Feb 17 22:55 : update: added /07. Whitesnake - Children Of The Night (2018 Remaster).flac
+Feb 17 22:55 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:55 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:55 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:55 : update: removing Derek & The Dominos - Layla.flac
+Feb 17 22:55 : update: added zamn/Derek & The Dominos - Layla.flac
+Feb 17 22:55 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:55 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:55 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: removing The Cars - Drive (2016 Remaster).flac
+Feb 17 22:56 : update: removing Phil Collins - You Can't Hurry Love (2016 Remaster).flac
+Feb 17 22:56 : update: removing Phil Collins - This Must Be Love (2015 Remaster).flac
+Feb 17 22:56 : update: removing Phil Collins - In the Air Tonight (2015 Remaster).flac
+Feb 17 22:56 : update: removing Phil Collins - Another Day in Paradise (2016 Remaster).flac
+Feb 17 22:56 : update: removing Phil Collins - Against All Odds (Take a Look at Me Now) (2016 Remaster)(1).flac
+Feb 17 22:56 : update: removing TOTO - Rosanna.flac
+Feb 17 22:56 : update: removing Phil Collins - Against All Odds (Take a Look at Me Now) (2016 Remaster).flac
+Feb 17 22:56 : update: removing The Cars - Just What I Needed.flac
+Feb 17 22:56 : update: removing The Cars - Moving in Stereo .flac
+Feb 17 22:56 : update: removing The Cars - Just What I Needed .flac
+Feb 17 22:56 : update: removing The Cars - Magic (2018 Remaster).flac
+Feb 17 22:56 : update: removing Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac
+Feb 17 22:56 : update: removing Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac
+Feb 17 22:56 : update: removing The Cars - It's All I Can Do (2016 Remaster).flac
+Feb 17 22:56 : update: removing The Cars - You're All I've Got Tonight .flac
+Feb 17 22:56 : update: removing The Cars - You Might Think (2018 Remaster).flac
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: added zamn/Phil Collins - Another Day in Paradise (2016 Remaster).flac
+Feb 17 22:56 : update: added zamn/The Cars - Just What I Needed.flac
+Feb 17 22:56 : update: added zamn/The Cars - Just What I Needed .flac
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: added zamn/The Cars - You Might Think (2018 Remaster).flac
+Feb 17 22:56 : update: added zamn/The Cars - Moving in Stereo .flac
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: added zamn/Phil Collins - In the Air Tonight (2015 Remaster).flac
+Feb 17 22:56 : update: added zamn/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: added zamn/Phil Collins - Against All Odds (Take a Look at Me Now) (2016 Remaster)(1).flac
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: added zamn/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac
+Feb 17 22:56 : update: added zamn/TOTO - Rosanna.flac
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: added zamn/The Cars - You're All I've Got Tonight .flac
+Feb 17 22:56 : update: added zamn/The Cars - It's All I Can Do (2016 Remaster).flac
+Feb 17 22:56 : update: added zamn/Phil Collins - Against All Odds (Take a Look at Me Now) (2016 Remaster).flac
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: added zamn/Phil Collins - You Can't Hurry Love (2016 Remaster).flac
+Feb 17 22:56 : update: added zamn/The Cars - Magic (2018 Remaster).flac
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: added cock/Kishore Kumar - Jaane Jaan Dhoondata (From _Jawani Diwani_).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Gypsy (2016 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Book of Love (2016 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Can't Go Back (2016 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Seven Wonders (2017 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Big Love (2017 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Silver Springs (2004 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Don't Stop (2004 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Dreams (2004 Remaster).flac
+Feb 17 22:56 : update: removing The Outfield - Talk To Me.flac
+Feb 17 22:56 : update: removing The Outfield - Mystery Man.flac
+Feb 17 22:56 : update: removing The Outfield - Say It Isn't So.flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Only over You (2016 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Isn't It Midnight (2017 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Little Lies (2017 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Caroline (2017 Remaster).flac
+Feb 17 22:56 : update: removing Fleetwood Mac - Everywhere (2017 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Big Love (2017 Remaster).flac
+Feb 17 22:56 : update: added zamn/The Outfield - Mystery Man.flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Caroline (2017 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Little Lies (2017 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Isn't It Midnight (2017 Remaster).flac
+Feb 17 22:56 : update: added zamn/The Outfield - Talk To Me.flac
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Book of Love (2016 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Can't Go Back (2016 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Seven Wonders (2017 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Silver Springs (2004 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Gypsy (2016 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Only over You (2016 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Dreams (2004 Remaster).flac
+Feb 17 22:56 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:56 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:56 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:56 : update: added zamn/The Cars - Drive (2016 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Everywhere (2017 Remaster).flac
+Feb 17 22:56 : update: added zamn/Fleetwood Mac - Don't Stop (2004 Remaster).flac
+Feb 17 22:56 : update: added zamn/The Outfield - Say It Isn't So.flac
+Feb 17 22:57 : update: removing 3. Dire Straits - Setting Me Up.flac
+Feb 17 22:57 : update: removing 3. Dire Straits - Where Do You Think You're Going?.flac
+Feb 17 22:57 : update: removing Dire Straits - Your Latest Trick.flac
+Feb 17 22:57 : update: removing Dire Straits - Walk of Life.flac
+Feb 17 22:57 : update: added zamn/Dire Straits - Your Latest Trick.flac
+Feb 17 22:57 : update: added zamn/Dire Straits - Walk of Life.flac
+Feb 17 22:57 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 17 22:57 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 17 22:57 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 17 22:57 : update: added zamn/3. Dire Straits - Where Do You Think You're Going?.flac
+Feb 17 22:57 : update: added zamn/3. Dire Straits - Setting Me Up.flac
+Feb 17 23:04 : player: played "smooth/Derek & The Dominos - Layla.flac"
+Feb 17 23:09 : player: played "zamn/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 17 23:16 : player: played "1. Dire Straits - Once Upon a Time in the West.flac"
+Feb 17 23:20 : player: played "2. Dire Straits - News.flac"
+Feb 17 23:42 : player: played "4. Dire Straits - Communiqué.flac"
+Feb 17 23:47 : player: played "zamn/The Outfield - Say It Isn't So.flac"
+Feb 17 23:55 : player: played "zamn/The Cars - Just What I Needed .flac"
+Feb 17 23:59 : player: played "cock/Kishore Kumar - Chhu Kar Mere Manko (From _Yaarana_).flac"
+Feb 18 08:44 : player: played "zamn/The Outfield - Mystery Man.flac"
+Feb 18 11:09 : player: played "lock_in/John Powell - The Bourne Identity Main Title.flac"
+Feb 18 11:11 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 18 11:15 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 18 11:16 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 18 11:16 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 18 11:16 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 18 11:16 : exception: Failed to decode zamn/Phil Collins - Against All Odds (Take a Look at Me Now) (2016 Remaster)(1).flac
+Feb 18 11:16 : player: played "zamn/Phil Collins - Against All Odds (Take a Look at Me Now) (2016 Remaster)(1).flac"
+Feb 18 11:17 : player: played "zamn/Dire Straits - Walk of Life.flac"
+Feb 18 11:22 : player: played "zamn/Dire Straits - Walk of Life.flac"
+Feb 18 11:29 : player: played "zamn/Dire Straits - Your Latest Trick.flac"
+Feb 18 11:32 : player: played "zamn/The Cars - It's All I Can Do (2016 Remaster).flac"
+Feb 18 11:36 : player: played "zamn/3. Dire Straits - Where Do You Think You're Going?.flac"
+Feb 18 11:39 : player: played "zamn/3. Dire Straits - Setting Me Up.flac"
+Feb 18 11:43 : player: played "zamn/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 18 12:00 : player: played "zamn/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 18 12:04 : player: played "zamn/The Cars - Magic (2018 Remaster).flac"
+Feb 18 12:08 : player: played "zamn/Fleetwood Mac - Can't Go Back (2016 Remaster).flac"
+Feb 18 12:27 : player: played "zamn/Fleetwood Mac - Book of Love (2016 Remaster).flac"
+Feb 18 12:35 : player: played "zamn/The Outfield - Say It Isn't So.flac"
+Feb 18 12:39 : player: played "zamn/The Outfield - Talk To Me.flac"
+Feb 18 12:43 : player: played "zamn/Fleetwood Mac - Dreams (2004 Remaster).flac"
+Feb 18 12:46 : player: played "zamn/Fleetwood Mac - Don't Stop (2004 Remaster).flac"
+Feb 18 12:51 : player: played "zamn/Fleetwood Mac - Silver Springs (2004 Remaster).flac"
+Feb 18 12:55 : player: played "zamn/Fleetwood Mac - Big Love (2017 Remaster).flac"
+Feb 18 12:59 : player: played "zamn/Fleetwood Mac - Seven Wonders (2017 Remaster).flac"
+Feb 18 13:03 : player: played "zamn/Fleetwood Mac - Everywhere (2017 Remaster).flac"
+Feb 18 18:17 : player: played "zamn/Fleetwood Mac - Caroline (2017 Remaster).flac"
+Feb 18 18:21 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 18 18:25 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 18 18:28 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 18 18:32 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 19 11:02 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 19 11:11 : player: played "1. Dire Straits - Down to the Waterline.flac"
+Feb 19 11:14 : player: played "5. Dire Straits - Southbound Again.flac"
+Feb 19 14:16 : player: played "zamn/Dire Straits - Walk of Life.flac"
+Feb 19 14:23 : player: played "zamn/Dire Straits - Your Latest Trick.flac"
+Feb 19 14:23 : player: played "5. Dire Straits - Lady Writer.flac"
+Feb 19 14:27 : player: played "1. Iron Maiden - Invaders (Remastered 2015).flac"
+Feb 19 14:34 : player: played "8. Iron Maiden - Hallowed Be Thy Name (Remastered 1982).flac"
+Feb 19 14:41 : player: played "3. Iron Maiden - The Prisoner (Remastered 2015).flac"
+Feb 19 14:47 : player: played "5. Iron Maiden - The Number of the Beast (Remastered 2015).flac"
+Feb 19 14:50 : player: played "04. Rammstein - Ich will.flac"
+Feb 19 15:14 : player: played "03. Rammstein - Sonne.flac"
+Feb 19 15:18 : player: played "08. Rammstein - Zwitter.flac"
+Feb 19 15:38 : player: played "6. Iron Maiden - Run to the Hills (Remastered 2015).flac"
+Feb 19 15:41 : player: played "02. Rammstein - Links 2 3 4.flac"
+Feb 19 15:49 : player: played "zamn/Fleetwood Mac - Seven Wonders (2017 Remaster).flac"
+Feb 19 23:16 : player: played "zamn/Derek & The Dominos - Layla.flac"
+Feb 20 01:03 : player: played "zamn/Fleetwood Mac - Caroline (2017 Remaster).flac"
+Feb 20 01:07 : player: played "zamn/Fleetwood Mac - Little Lies (2017 Remaster).flac"
+Feb 20 01:10 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 20 01:10 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 20 01:10 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 20 01:10 : update: added /Pritam - Tum Se Hi.flac
+Feb 20 01:10 : update: added /Pritam - Ye Ishq Hai.flac
+Feb 20 01:10 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 20 01:10 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 20 01:10 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 20 01:15 : player: played "Pritam - Ye Ishq Hai.flac"
+Feb 20 01:16 : player: played "Pritam - Ye Ishq Hai.flac"
+Feb 20 01:21 : player: played "Pritam - Tum Se Hi.flac"
+Feb 20 01:26 : player: played "Pritam - Tum Se Hi.flac"
+Feb 20 09:52 : player: played "Pritam - Tum Se Hi.flac"
+Feb 20 09:54 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 20 09:56 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 20 09:58 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 20 10:00 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 20 10:02 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 20 10:03 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 20 10:08 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 20 10:12 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 20 10:19 : player: played "01. Rammstein - Mein Herz brennt.flac"
+Feb 20 10:22 : player: played "02. Rammstein - Links 2 3 4.flac"
+Feb 20 10:27 : player: played "03. Rammstein - Sonne.flac"
+Feb 20 10:30 : player: played "04. Rammstein - Ich will.flac"
+Feb 20 10:33 : player: played "05. Rammstein - Feuer frei!.flac"
+Feb 20 10:34 : update: added /平沢進 - Gats.flac
+Feb 20 10:34 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 20 10:34 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 20 10:34 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 20 10:34 : update: added zamn/Phil Collins - This Must Be Love (2015 Remaster).flac
+Feb 20 10:34 : update: added /平沢進 - BEHELIT.flac
+Feb 20 10:38 : player: played "06. Rammstein - Mutter.flac"
+Feb 20 12:01 : player: played "平沢進 - Gats.flac"
+Feb 20 12:03 : player: played "平沢進 - BEHELIT.flac"
+Feb 20 12:03 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 20 12:05 : player: played "平沢進 - BEHELIT.flac"
+Feb 20 16:21 : player: played "平沢進 - Gats.flac"
+Feb 20 16:23 : player: played "平沢進 - BEHELIT.flac"
+Feb 20 18:44 : player: played "平沢進 - Gats.flac"
+Feb 21 09:49 : player: played "Pritam - Ye Ishq Hai.flac"
+Feb 21 09:58 : player: played "Pritam - Tum Se Hi.flac"
+Feb 21 11:08 : player: played "Pritam - Ye Ishq Hai.flac"
+Feb 21 11:12 : player: played "Pritam - Ye Ishq Hai.flac"
+Feb 21 11:18 : player: played "Pritam - Tum Se Hi.flac"
+Feb 21 11:30 : player: played "Pritam - Ye Ishq Hai.flac"
+Feb 21 11:36 : player: played "Pritam - Tum Se Hi.flac"
+Feb 21 11:40 : player: played "cock/MOHIT CHAUHAN - Bheegi Si Bhaagi Si (Trance Mix by Deep & DJ Chantz).flac"
+Feb 21 11:44 : player: played "zamn/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 21 11:47 : player: played "cock/Kishore Kumar - Chalte Chalte (Part 1 _ From _Chalte Chalte_).flac"
+Feb 21 11:49 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 11:51 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 11:52 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 11:54 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 11:56 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 11:58 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 12:00 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 12:02 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 12:03 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 12:05 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 15:46 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 21 15:51 : player: played "Pritam - Ye Ishq Hai.flac"
+Feb 21 15:56 : player: played "Pritam - Tum Se Hi.flac"
+Feb 21 16:01 : player: played "Pritam - Ye Ishq Hai.flac"
+Feb 21 16:06 : player: played "Pritam - Tum Se Hi.flac"
+Feb 21 19:06 : player: played "Pritam - Ye Ishq Hai.flac"
+Feb 21 19:06 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 21 19:06 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 21 19:06 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 21 19:06 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 21 19:06 : player: played "Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac"
+Feb 22 11:33 : player: played "zamn/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 22 11:37 : player: played "zamn/The Cars - Magic (2018 Remaster).flac"
+Feb 22 11:41 : player: played "zamn/The Cars - Just What I Needed.flac"
+Feb 22 11:45 : player: played "zamn/The Outfield - Mystery Man.flac"
+Feb 22 11:48 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 22 11:48 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 22 11:48 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 22 11:48 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 22 11:48 : player: played "zamn/The Outfield - Talk To Me.flac"
+Feb 22 11:48 : player: played "Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac"
+Feb 22 11:48 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Feb 22 11:48 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Feb 22 11:48 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Feb 22 11:48 : exception: Failed to decode Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac
+Feb 22 11:48 : player: played "Elton John - Goodbye Yellow Brick Road (Remastered 2014).flac"
+Feb 23 10:50 : player: played "zamn/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 23 10:54 : player: played "1. Dire Straits - Down to the Waterline.flac"
+Feb 23 11:00 : player: played "4. Dire Straits - Six Blade Knife.flac"
+Feb 23 11:06 : player: played "6. Dire Straits - Sultans of Swing.flac"
+Feb 23 13:39 : player: played "7. Dire Straits - In the Gallery.flac"
+Feb 23 13:51 : player: played "5. Dire Straits - Lady Writer.flac"
+Feb 23 13:56 : player: played "6. Dire Straits - Angel of Mercy.flac"
+Feb 23 14:00 : player: played "7. Dire Straits - Portobello Belle.flac"
+Feb 23 14:11 : player: played "Dire Straits - Brothers in Arms.flac"
+Feb 23 14:16 : player: played "Dire Straits - So Far Away.flac"
+Feb 23 14:20 : player: played "zamn/Dire Straits - Walk of Life.flac"
+Feb 23 14:27 : player: played "zamn/Dire Straits - Your Latest Trick.flac"
+Feb 23 14:34 : player: played "Dire Straits - Ride Across the River.flac"
+Feb 24 00:32 : player: played "1. Dire Straits - Down to the Waterline.flac"
+Feb 24 11:01 : player: played "1. Dire Straits - Down to the Waterline.flac"
+Feb 24 11:05 : player: played "zamn/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 24 11:05 : player: played "01. Whitesnake - Crying In The Rain (1987 Version - 2018 Remaster).flac"
+Feb 24 12:11 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 24 12:15 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 25 00:37 : player: played "zamn/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 25 00:41 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 25 00:44 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 25 11:58 : player: played "zamn/Eric Carmen - Hungry Eyes (From _Dirty Dancing_ Soundtrack).flac"
+Feb 25 12:07 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 25 12:09 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 25 12:30 : player: played "Billy Idol - Rebel Yell.flac"
+Feb 25 12:35 : player: played "Billy Idol - Blue Highway.flac"
+Feb 25 12:40 : player: played "Billy Idol - Flesh For Fantasy.flac"
+Feb 25 12:44 : player: played "Billy Idol - Crank Call.flac"
+Feb 25 12:44 : exception: Not playing
+Feb 25 12:48 : player: played "zamn/Patrick Swayze Featuring Wendy Fraser - She's Like the Wind (From _Dirty Dancing_ Soundtrack).flac"
+Feb 25 12:53 : player: played "zamn/The Cars - Moving in Stereo .flac"
+Feb 25 13:54 : player: played "zamn/The Cars - It's All I Can Do (2016 Remaster).flac"
+Feb 25 13:58 : player: played "zamn/The Cars - Magic (2018 Remaster).flac"
+Feb 25 14:24 : player: played "Sting - Fields Of Gold(1).flac"
+Feb 25 14:28 : player: played "Sting - Englishman In New York.flac"
+Feb 25 14:33 : player: played "lock_in/John Powell - The Bourne Identity Main Title.flac"
+Feb 25 14:36 : player: played "1. Iron Maiden - Invaders (Remastered 2015).flac"
+Feb 25 15:29 : player: played "2. Iron Maiden - Children of the Damned (Remastered 2015).flac"
+Feb 25 15:50 : player: played "5. Iron Maiden - The Number of the Beast (Remastered 2015).flac"
+Feb 25 16:03 : player: played "平沢進 - BEHELIT.flac"
+Feb 25 22:56 : player: played "平沢進 - BEHELIT.flac"
+Feb 25 23:01 : player: played "Pritam - Tum Se Hi.flac"
+Feb 25 23:06 : player: played "Pritam - Ye Ishq Hai.flac"
+Feb 25 23:09 : player: played "7. Iron Maiden - Gangland (Remastered 2015).flac"
+Feb 25 23:17 : player: played "8. Iron Maiden - Hallowed Be Thy Name (Remastered 1982).flac"
+Feb 25 23:20 : player: played "平沢進 - Gats.flac"
+Feb 25 23:24 : player: played "平沢進 - Gats.flac"
+Feb 25 23:27 : player: played "平沢進 - Gats.flac"
+Feb 25 23:31 : player: played "平沢進 - Gats.flac"
+Feb 25 23:35 : player: played "平沢進 - Gats.flac"
+Feb 25 23:38 : player: played "平沢進 - Gats.flac"
+Feb 25 23:42 : player: played "平沢進 - Gats.flac"
+Feb 25 23:45 : player: played "平沢進 - Gats.flac"
+Feb 26 11:56 : player: played "平沢進 - Gats.flac"
+Feb 26 11:56 : update: added /WhatsApp Audio 2026-02-26 at 11.50.14.mp4
+Feb 26 11:58 : update: removing WhatsApp Audio 2026-02-26 at 11.50.14.mp4
+Feb 26 11:58 : update: added /Jiya_re.mp4
+Feb 26 12:02 : exception: Failed to decode /home/ani/Music/WhatsApp Audio 2026-02-26 at 11.50.14.mp4; Failed to open '/home/ani/Music/WhatsApp Audio 2026-02-26 at 11.50.14.mp4': No such file or directory
+Feb 26 12:02 : player: played "WhatsApp Audio 2026-02-26 at 11.50.14.mp4"
+Feb 26 12:02 : player: played "WhatsApp Audio 2026-02-26 at 11.50.14.mp4"
+Feb 26 12:02 : exception: Failed to decode /home/ani/Music/WhatsApp Audio 2026-02-26 at 11.50.14.mp4; Failed to open '/home/ani/Music/WhatsApp Audio 2026-02-26 at 11.50.14.mp4': No such file or directory
+Feb 26 12:02 : player: played "WhatsApp Audio 2026-02-26 at 11.50.14.mp4"
+Feb 26 12:07 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 26 12:09 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 26 12:11 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 26 12:15 : player: played "lock_in/John Powell - The Bourne Identity Main Title.flac"
+Feb 26 12:19 : player: played "lock_in/Moby - Extreme Ways.flac"
+Feb 26 12:23 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 26 12:25 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 26 12:26 : player: played "lock_in/Ludwig Goransson - Can You Hear The Music.flac"
+Feb 26 12:30 : player: played "Jiya_re.mp4"
+Feb 26 12:36 : player: played "Jiya_re.mp4"
+Feb 26 12:41 : player: played "Jiya_re.mp4"
+Feb 26 17:17 : player: played "Jiya_re.mp4"
+Feb 26 17:56 : player: played "Jiya_re.mp4"
+Feb 26 18:12 : exception: No such song
+Feb 26 18:12 : exception: No such song
+Feb 26 18:12 : player: played "Dire Straits - Brothers in Arms.flac"
+Feb 26 18:12 : update: removing zamn/The Cars - Magic (2018 Remaster).flac
+Feb 26 18:12 : update: removing zamn/The Cars - It's All I Can Do (2016 Remaster).flac
+Feb 26 18:12 : update: removing zamn/TOTO - Rosanna.flac
+Feb 26 18:12 : update: removing zamn/The Cars - Moving in Stereo .flac
+Feb 26 18:12 : update: removing zamn/The Cars - Just What I Needed .flac
+Feb 26 23:56 : player: played "zamn/Fleetwood Mac - Can't Go Back (2016 Remaster).flac"
+Feb 27 09:09 : player: played "zamn/Fleetwood Mac - Can't Go Back (2016 Remaster).flac"
+Feb 27 09:14 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 27 09:16 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 27 10:07 : player: played "lock_in/Piero Piccioni - Easy Lovers.flac"
+Feb 27 11:20 : player: played "lock_in/Piero Piccioni - Endless Love.flac"
+Feb 27 11:25 : player: played "Billy Idol - Rebel Yell.flac"
+Feb 27 11:31 : player: played "Billy Idol - Blue Highway.flac"
+Feb 27 11:35 : player: played "Billy Idol - Flesh For Fantasy.flac"
+Feb 27 11:39 : player: played "Billy Idol - Crank Call.flac"
+Feb 27 11:44 : player: played "Billy Idol - Rebel Yell.flac"
+Feb 27 11:49 : player: played "Billy Idol - Blue Highway.flac"
+Feb 27 11:54 : player: played "01. Rammstein - Mein Herz brennt.flac"
+Feb 27 11:58 : player: played "02. Rammstein - Links 2 3 4.flac"
+Feb 27 12:02 : player: played "03. Rammstein - Sonne.flac"
+Feb 27 12:06 : player: played "04. Rammstein - Ich will.flac"
+Feb 27 12:09 : player: played "05. Rammstein - Feuer frei!.flac"
+Feb 27 12:13 : player: played "06. Rammstein - Mutter.flac"
+Feb 27 12:31 : player: played "07. Rammstein - Spieluhr.flac"
+Feb 27 12:37 : player: played "09. Rammstein - Rein raus.flac"
+Feb 27 19:24 : player: played "01. Whitesnake - Crying In The Rain (1987 Version - 2018 Remaster).flac"
+Feb 27 19:28 : player: played "02. Whitesnake - Bad Boys (2018 Remaster).flac"
+Feb 27 19:35 : player: played "03. Whitesnake - Still Of The Night (2018 Remaster).flac"
+Feb 27 19:39 : player: played "04. Whitesnake - Here I Go Again (1987 Version - 2018 Remaster).flac"
+Feb 27 19:43 : player: played "05. Whitesnake - Give Me All Your Love (2018 Remaster).flac"
+Feb 27 19:47 : player: played "06. Whitesnake - Is This Love (2018 Remaster).flac"
+Feb 27 19:53 : player: played "07. Whitesnake - Children Of The Night (2018 Remaster).flac"
+Feb 27 19:57 : player: played "08. Whitesnake - Straight For The Heart (2018 Remaster).flac"
+Feb 27 20:02 : player: played "Billy Idol - Rebel Yell.flac"
+Feb 27 20:07 : player: played "Billy Idol - Blue Highway.flac"
+Feb 27 20:11 : player: played "Billy Idol - Flesh For Fantasy.flac"
+Feb 27 22:44 : player: played "01. Rammstein - Mein Herz brennt.flac"

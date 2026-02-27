@@ -204,7 +204,7 @@ bindsym $mod+Ctrl+b exec --no-startup-id mpc prev
 bindsym $mod+Ctrl+p exec --no-startup-id mpc toggle
 
 
-exec_always --no-startup-id ~/.config/polybar/hack/launch.sh
+exec_always --no-startup-id ~/.config/polybar/docky/launch.sh
 
 bindsym $mod+Shift+z exec launch-zen
 
